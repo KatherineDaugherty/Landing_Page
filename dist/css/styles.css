@@ -299,7 +299,10 @@ figure {
 img,
 svg {
   vertical-align: middle;
+  height: 200px;
+  width: 250px;
 }
+
 
 table {
   caption-side: bottom;
